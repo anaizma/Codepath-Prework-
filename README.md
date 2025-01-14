@@ -1,9 +1,9 @@
 # Codepath-Prework-
-Codepath prework project
-# Prework - *Name of App Here*
+Codepath Prework Project
+# Prework - *CodePath Prework*
 
 
-Submitted by: **Your Name Here**
+Submitted by: **Ana Izma**
 
 
 **Ana I.Prework** is an app that... [changes background colors once a button is clicked] 
@@ -18,9 +18,9 @@ Time spent: **1** hours spent in total
 The following **required** functionality is completed:
 
 
-- [ ] Users are see a screen with three labels and a button
+- [x] Users are see a screen with three labels and a button
 
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Tapping the button changes the screen color to a random color
 
  
 
